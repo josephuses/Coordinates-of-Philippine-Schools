@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1522571806341.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "99596004",
+    "lastKnownWriteTime" : 1522571825,
+    "last_content_update" : 1522571825586,
+    "path" : "~/phil_school_coords/phil_school_coords.R",
+    "project_path" : "phil_school_coords.R",
+    "properties" : {
+        "cursorPosition" : "25,44",
+        "scrollLine" : "19",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
