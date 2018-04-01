@@ -35,3 +35,5 @@ write_csv(df, 'noLongLat.csv')
 df2 <- df %>% filter(is.na(latitude))
 # write csv to file updatedNoLongLat.csv
 write_csv(df2, 'updatedNoLongLat.csv')
+
+# Make sure to check the matches for impossible and wrong values (e.g. negative long and lat values)
